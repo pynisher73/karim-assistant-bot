@@ -21,8 +21,8 @@ from telegram.ext import (
 
 # ============= CONFIGURATION =============
 # ⚠️ REMPLACE CES CLÉS PAR TES NOUVELLES CLÉS (RÉVOQUE LES ANCIENNES !)
-TELEGRAM_TOKEN = "NOUVELLE_CLE_TELEGRAM_ICI"  # Après révocation
-GEMINI_API_KEY = "NOUVELLE_CLE_GEMINI_ICI"    # Après suppression ancienne
+TELEGRAM_TOKEN = "8359833672:AAFfm9is_Grf4SbT0r94KFOTOSx_3mb3BaA"  # Après révocation
+GEMINI_API_KEY = "AIzaSyAax3WyTfnIn-jusZ0BLfpWRaPcsLteW3k"    # Après suppression ancienne
 
 DATA_FILE = "user_data.json"
 
